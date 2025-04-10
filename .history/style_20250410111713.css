@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+.container-main {
+  background-color: #4b5358;
+  width: 400px;
+  height: 720px;
+  box-sizing: border-box;
+  margin: 120px auto;
+  padding: 60px ;
+  border-radius: 15px;
+}
+
+.container-image img {
+  width: 258px;
+  border-radius: 30px;
+}

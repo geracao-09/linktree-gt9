@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000000;
+}
+
+.container-main {
+    background-color: #4B5358;
+    width: 560px;
+    box-sizing: content-box;
+}
+
+.container-image {
+    width: 56px;
+
+    & img {
+        width: 56px;
+    }
+}
+
