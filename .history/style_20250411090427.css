@@ -46,3 +46,14 @@ body {
   text-decoration: none;
   color: white;
 }
+
+.container-social {
+  margin-top: 20px;
+}
+
+.container-social li {
+  width: 272px;
+  height: 30px;
+  background-color: #005184;
+  margin: 15px 0;
+}
